@@ -1,2 +1,2 @@
 # GoatEnVrac
-Idea/Brainstorm/KomCaVien lasdfja
+Idea/Brainstorm/KomCaVien
